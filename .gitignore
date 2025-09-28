@@ -1,2 +1,6 @@
+/target/
+**/*.rs.bk
+*.pdb
 *.log
-tor_hidden_service
+Cargo.lock
+/tor_hidden_service/
