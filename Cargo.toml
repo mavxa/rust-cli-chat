@@ -1,0 +1,28 @@
+[package]
+name = "rust-cli-chat"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Crypto primitives
+x25519-dalek = { version = "2.0", features = ["static_secrets"] }
+hkdf = "0.12"
+chacha20poly1305 = "0.10"      # XChaCha20Poly1305 уже включён в этот крейт
+sha2 = "0.10"
+rand = "0.8"
+anyhow = "1.0"
+arrayref = "0.3"
+base64 = "0.21"
+
+# Networking / async
+tokio = { version = "1", features = ["full"] }
+tokio-socks = { version = "0.5", features = ["tokio"] }
+
+# бинарники
+[[bin]]
+name = "server"
+path = "src/bin/server.rs"
+
+[[bin]]
+name = "client"
+path = "src/bin/client.rs"

@@ -1,0 +1,11 @@
+# torrc.example - пример конфигурации Tor Hidden Service для rust-cli-chat
+
+# Папка, где Tor создаст ключи и hostname
+HiddenServiceDir C:/vsc/vsc-projects/rust-cli-chat/tor_hidden_service
+HiddenServiceVersion 3
+
+# Проброс порта: внешний .onion:9000 -> локальный TCP-сервер 127.0.0.1:9000
+HiddenServicePort 9000 127.0.0.1:9000
+
+# Логирование
+Log notice file C:/vsc/vsc-projects/rust-cli-chat/tor.log

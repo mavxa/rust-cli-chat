@@ -1,0 +1,11 @@
+C:\vsc\vsc-projects\rust-cli-chat\target\release\deps\getrandom-cf2fb09b8eebab62.d: C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs
+
+C:\vsc\vsc-projects\rust-cli-chat\target\release\deps\libgetrandom-cf2fb09b8eebab62.rlib: C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs
+
+C:\vsc\vsc-projects\rust-cli-chat\target\release\deps\libgetrandom-cf2fb09b8eebab62.rmeta: C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs
+
+C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs:
+C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs:
+C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs:
+C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs:
+C:\Users\mafva\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs:

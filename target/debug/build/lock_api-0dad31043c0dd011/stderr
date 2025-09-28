@@ -1,0 +1,9 @@
+error: could not copy "/mnt/c/vsc/vsc-projects/rust-cli-chat/target/debug/build/lock_api-0dad31043c0dd011/out/autocfg_f2f31746d13dba9b_0.autocfg_f2f31746d13dba9b_0.78f2546923ce4248-cgu.0.rcgu.ll" to "/mnt/c/vsc/vsc-projects/rust-cli-chat/target/debug/build/lock_api-0dad31043c0dd011/out/autocfg_f2f31746d13dba9b_0.ll": Operation not permitted (os error 1)
+
+error: aborting due to 1 previous error
+
+error: could not copy "/mnt/c/vsc/vsc-projects/rust-cli-chat/target/debug/build/lock_api-0dad31043c0dd011/out/autocfg_f2f31746d13dba9b_1.autocfg_f2f31746d13dba9b_1.669f8b1cbeed5c9c-cgu.0.rcgu.ll" to "/mnt/c/vsc/vsc-projects/rust-cli-chat/target/debug/build/lock_api-0dad31043c0dd011/out/autocfg_f2f31746d13dba9b_1.ll": Operation not permitted (os error 1)
+
+error: aborting due to 1 previous error
+
+warning: autocfg could not probe for `std`
